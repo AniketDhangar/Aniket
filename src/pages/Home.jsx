@@ -195,7 +195,7 @@ export default function Home() {
 >
   <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-[#4A90E2]/50 shadow-2xl transition-transform duration-500 hover:scale-105">
     <img
-      src="/src/assets/new.jpg"
+      src="/new.jpg"
       alt="Aniket Dhangar - Developer"
       className="w-full h-full object-cover"
     />

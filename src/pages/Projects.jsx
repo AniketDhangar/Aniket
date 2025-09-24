@@ -32,7 +32,7 @@ const projects = [
     technologies: ["React.js", "Node.js", "Express", "MongoDB", "TypeScript", "Socket.IO", "OpenAI API", "JWT Authentication", "Tailwind CSS"],
     github: "https://github.com/AniketDhangar",
     live: null,
-    image: "/src/assets/school.jpg",
+    image: "/school.jpg",
   },
   {
     name: "Photo Studio CRM",
@@ -47,7 +47,7 @@ const projects = [
     technologies: ["React.js", "Node.js", "Express", "MongoDB", "Mongoose", "Material UI", "PDF/Excel Export", "JWT Authentication"],
     github: "https://github.com/AniketDhangar/CRM",
     live: null,
-    image: "/src/assets/photo.png",
+    image: "/photo.png",
   },
   {
     name: "Nirmal Crop Manual",
@@ -62,7 +62,7 @@ const projects = [
     technologies: ["Node.js", "Express", "MySQL", "Sequelize ORM", "JWT Authentication"],
     github: "https://github.com/AniketDhangar/NodeAndSQL",
     live: "https://play.google.com/store/apps/details?id=com.ojasinfotech.nirmalcropmanual",
-    image: "/src/assets/crop.png",
+    image: "/crop.png",
   },
   {
     name: "HVAC Services Portal",
@@ -77,7 +77,7 @@ const projects = [
     technologies: ["React.js", "Node.js", "Express", "MongoDB", "Redux Toolkit", "Material UI"],
     github: "https://github.com/AniketDhangar/HVAC-Final",
     live: null,
-    image: "/src/assets/hvac.png",
+    image: "/hvac.png",
   },
   {
     name: "E-comzzzy",
@@ -92,7 +92,7 @@ const projects = [
     technologies: ["React.js", "Redux Toolkit", "Tailwind CSS", "JavaScript"],
     github: "https://github.com/AniketDhangar/E-comzzzy",
     live: null,
-    image: "src/assets/Ecommerce.png",
+    image: "/Ecommerce.png",
   },
 ];
 
